@@ -1,4 +1,6 @@
 # Sign_Language_ASL_ML
+- dataset: https://www.kaggle.com/datamunge/sign-language-mnist
+- Implementation Author: Levan Sulimanov
 * Project aim is to create a classifier to detect ASL gestures and link them with alphabet letters
 American Sign Language (visual picture reference):
 
