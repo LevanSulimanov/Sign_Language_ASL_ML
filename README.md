@@ -8,7 +8,8 @@ American Sign Language (visual picture reference):
 
 * classifier_analysis.ipynb file contains various approaches towards solving this problem, but as expected CNN takes the first place. It is also interesting to take a look at SVM results and how One Versus All(Rest) strategy provides very good results.
 
-* CNN results reach 94% of accuracy and 93% for precision. Refer to the confusion matrix for visual result:
+* CNN results reach 94% of accuracy and 93% for precision. Early Stopping is used with max_delta=0.001.</br>
+Refer to the confusion matrix for visual result:
 ![CNN Confusion Matrix](/images/CNN_result.png)
 
 *Please remember to extract "sign-language-mnist" zip-file, in order to be able to run provided models.
