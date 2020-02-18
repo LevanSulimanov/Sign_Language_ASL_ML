@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_test_sets</folder>
+	<filename>aloha_1581253186.png</filename>
+	<path>C:\Users\Leva-LRS\Desktop\GitRepos\Sign_Language_ASL_ML\video_feed_gesture_detection\train_test_sets\aloha_1581253186.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aloha</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>3</ymin>
+			<xmax>548</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
