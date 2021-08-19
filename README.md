@@ -22,7 +22,7 @@ Project is focused at providing classification results for individual hand gestu
 
 2. Background Reduction (for detection improvement: in accuracy and speed)
     * Using OpenCV, multiple filters used to remove the background, except selected colors
-    <img src="/readme_imgs/background_reduction.gif" width="40" height="40" />
+    <img src="/readme_imgs/background_reduction.gif"/>
 ---
 
 3. Model Training Results:
