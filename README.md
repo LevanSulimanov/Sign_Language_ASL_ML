@@ -8,7 +8,7 @@ Project is focused at providing classification results for individual hand gestu
 ### Project Workflow
 
 ---
-NEW APPROACH using KEYPOINTS RECOGNITION MODEL:
+NEW APPROACH using KEYPOINTS RECOGNITION MODEL: https://www.youtube.com/watch?v=ZPykp8l05b8&ab_channel=LevanSulimanov
 1. Data Collection:
 
    ---
